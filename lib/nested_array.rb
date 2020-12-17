@@ -29,6 +29,7 @@ def matrix_lookup(arr, row, col)
 end
 
 def matrix_update(arr, row, col, val)
-  
+  arr[row][col] = val
+  arr
 end
 
