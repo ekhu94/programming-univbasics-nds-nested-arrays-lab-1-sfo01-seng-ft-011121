@@ -28,3 +28,7 @@ def matrix_lookup(arr, row, col)
   arr[row][col]
 end
 
+def matrix_update(arr, row, col, val)
+  
+end
+
