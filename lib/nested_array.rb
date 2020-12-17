@@ -24,6 +24,6 @@ def sorted_matrix
   [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
 end
 
-def look_up
-  
+def matrix_lookup(row, col)
+  arr = 
 end
