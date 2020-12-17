@@ -16,3 +16,6 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
+def assembled_matrix
+  
+end
