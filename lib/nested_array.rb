@@ -27,3 +27,4 @@ end
 def matrix_lookup(arr, row, col)
   arr[row][col]
 end
+
